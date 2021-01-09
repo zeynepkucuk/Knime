@@ -1,5 +1,6 @@
 # Knime
 
+![Knime](knime.png)
 
 ## Knime Learning
 
