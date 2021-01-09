@@ -25,12 +25,25 @@ I would continue adding new workflow to this repo.
 :star: https://github.com/zeynepkucuk/Knime/tree/main/Classification 
 
 
-## 2 Multi Layer Perceptron 
+## 3 Multi Layer Perceptron 
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/MultiLayerPerceptron
 
-## 2 Support Vector Machine
+## 4 Support Vector Machine
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/SVM
+
+
+## 5 K-Means Algoritm 
+
+:star: https://github.com/zeynepkucuk/Knime/tree/main/SVM
+
+
+### Youtube Knime Videos 
+
+# K-means Algorithm  
+
+https://www.youtube.com/watch?v=AFIxCwYdQ6g 
+
 
 
