@@ -1,5 +1,6 @@
 # Knime
 
+![Knime](knime.png)
 
 ## Knime Learning
 
@@ -36,14 +37,11 @@ I would continue adding new workflow to this repo.
 
 ## 5 K-Means Algoritm 
 
-:star: https://github.com/zeynepkucuk/Knime/tree/main/SVM
-
-
-### Youtube Knime Videos 
-
-# K-means Algorithm  
+:star:https://github.com/zeynepkucuk/Knime/tree/main/K-meansAlgorithm
 
 https://www.youtube.com/watch?v=AFIxCwYdQ6g 
+
+
 
 
 
