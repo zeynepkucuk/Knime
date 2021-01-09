@@ -1,7 +1,7 @@
-## Knime
+# Knime
 
 
-# Knime Learning
+## Knime Learning
 
 >If you are a newcomer to the Knime Learning area, the first question you may have is "What is Knime"
 
@@ -16,20 +16,20 @@ I would continue adding new workflow to this repo.
 
 ---------------------------------------
 
-# 1 Regression Model 
+## 1 Regression Model 
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/RegressionModel 
 
-# 2 Classificatiom 
+## 2 Classification 
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/Classification 
 
 
-# 2 Multi Layer Perceptron 
+## 2 Multi Layer Perceptron 
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/MultiLayerPerceptron
 
-# 2 Support Vector Machine
+## 2 Support Vector Machine
 
 :star: https://github.com/zeynepkucuk/Knime/tree/main/SVM
 
